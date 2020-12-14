@@ -1,0 +1,66 @@
+{
+  "app_name": {
+    "message": "Marinara: Asistente Pomodoro®",
+    "description": "The name of the application. Shown in the web store."
+  },
+  "app_name_short": {
+    "message": "Marinara",
+    "description": "The short name of the application. Shown at the top of the dropdown menu."
+  },
+  "app_desc": {
+    "message": "Pomodoro® asistencia para la gestión del tiempo",
+    "description": "The short description of the application. Shown in the web store."
+  },
+  "chrome_web_store_description": {
+    "message": "• Descansos cortos y largos\n• Icono de la barra de herramientas con temporizador de cuenta atrás\n• Seguimiento de la historia y las estadísticas de Pomodoro\n• Intervalos de descanso largos configurables\n• Duraciones de temporizador configurables\n• Notificaciones de escritorio y pestañas\n• Notificaciones de audio con más de 20 sonidos\n• Sonidos del temporizador de tic-tac\n• Temporizadores automáticos programados\n• Software de código abierto",
+    "description": "Detailed extension description shown to users in the Chrome Web Store."
+  },
+  "pomodoro_assistant": {
+    "message": "Asistente Pomodoro",
+    "description": "Marinara title tagline. Shown on the settings-feedback page."
+  },
+  "start_pomodoro_cycle": {
+    "message": "Iniciar ciclo Pomodoro",
+    "description": "Menu entry to start a new Pomodoro cycle. Shown in the dropdown menu."
+  },
+  "restart_pomodoro_cycle": {
+    "message": "Reiniciar el ciclo Pomodoro",
+    "description": "Menu entry to restart the current Pomodoro cycle. Shown in the dropdown menu."
+  },
+  "restart_timer": {
+    "message": "Reiniciar temporizador",
+    "description": "Menu entry to restart the current timer. Shown in the dropdown menu."
+  },
+  "start_focusing": {
+    "message": "Empiece a concentrarse",
+    "description": "Start a focus session. Shown in the dropdown menu, timer expiration page, and in browser notifications."
+  },
+  "start_short_break": {
+    "message": "Iniciar una pausa corta",
+    "description": "Start a short break session. Shown in the dropdown menu, timer expiration page, and in browser notifications."
+  },
+  "start_break": {
+    "message": "Empezar a romper",
+    "description": "Start a break session. Shown in the dropdown menu, timer expiration page, and in browser notifications."
+  },
+  "start_long_break": {
+    "message": "Empezar un largo descanso",
+    "description": "Start a long break session. Shown in the dropdown menu, timer expiration page, and in browser notifications."
+  },
+  "stop_timer": {
+    "message": "Detener temporizador",
+    "description": "Menu entry to stop the current timer. Shown in the dropdown menu."
+  },
+  "pause_timer": {
+    "message": "Pausar temporizador",
+    "description": "Menu entry to pause the current timer. Shown in the dropdown menu."
+  },
+  "resume_timer": {
+    "message": "Reanudar temporizador",
+    "description": "Menu entry to resume the paused timer. Shown in the dropdown menu."
+  },
+  "pomodoro_history": {
+    "message": "Historia Pomodoro",
+    "description": "Menu entry to view Pomodoro history/stats. Shown in the dropdown menu."
+  }
+}
